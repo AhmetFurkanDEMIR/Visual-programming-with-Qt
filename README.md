@@ -8,4 +8,10 @@
 
 **-** My code repository where I share my necmettin erbakan university computer engineering 2nd year Visual programming course homework, projects and exams.
 
-* [x] [Uygulama Sınavı 1](/UygulamaSinavi1/)
+* [x] [Practice Exam 1](/UygulamaSinavi1/)
+
+* [x] [Practice Exam 2](/UygulamaSinavi2/)
+
+* [] Homework 1
+
+* [] Homework 2
