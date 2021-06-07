@@ -1,0 +1,7 @@
+101 Ali Kara 50 80
+102 Veysel Ada 80 90
+103 Seda Kil 70 75
+104 Zeliha Selin 40 45
+105 Deniz Cam 70 30
+106 Ayse Kalem 50 36
+107 Ahmet Sade 88 84
