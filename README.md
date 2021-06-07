@@ -12,6 +12,6 @@
 
 * [x] [Practice Exam 2](/UygulamaSinavi2/)
 
-* [] Homework 1
+* [ ] Homework 1
 
-* [] Homework 2
+* [ ] Homework 2
